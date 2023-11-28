@@ -5,6 +5,7 @@
  * KELAS    : PBO RegPagi
  * NIM      : 22166016
  * DESKRIPSI PROGRAM : Program ini berisi program untuk menampilkan implementasi coding "siapa kamu"
+ */
 public class PBOLat52 {
     private String nama;
     private int umur;
