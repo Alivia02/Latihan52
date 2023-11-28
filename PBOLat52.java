@@ -1,15 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package latihan52.siapakamu;
-
 /**
  *
  * @author ACER
- */
-// PBOLat52.java
-// PBOLat52.java
+ * NAMA     : ALIVIA FATAH YUMNA
+ * KELAS    : PBO RegPagi
+ * NIM      : 22166016
+ * DESKRIPSI PROGRAM : Program ini berisi program untuk menampilkan implementasi coding "siapa kamu"
 public class PBOLat52 {
     private String nama;
     private int umur;
